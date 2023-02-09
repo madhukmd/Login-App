@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.bgContainer {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.contentContainer {
+  background: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  text-align: center;
+  padding: 80px;
+  border-radius: 10px;
+}
